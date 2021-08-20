@@ -1,0 +1,6 @@
+header
+    Home
+    Contact us
+    Skills and Educations
+    Portfolio
+header
